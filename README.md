@@ -43,4 +43,4 @@ All analyses are implemented in a Jupyter Notebook with detailed comments and ma
 - **Urbanisation emerges as the most consistent predictor** of both environmental degradation and health improvement, highlighting the need for integrated urban‑environmental planning.
 - **Granger causality tests are non‑significant**, indicating that the observed relationships are contemporaneous rather than predictive.
 
-## 📁 Repository Structure
+
